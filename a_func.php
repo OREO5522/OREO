@@ -3,7 +3,7 @@ session_start();
 $host = "localhost";
 $db_user = "root";
 $db_pass = "";
-$db =  "op";
+$db =  "oreo";
 //connect to database
 $conn = new PDO("mysql:host=$host;dbname=$db", $db_user, $db_pass);
 $conn->exec("set names utf8mb4");

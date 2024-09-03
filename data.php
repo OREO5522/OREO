@@ -4,7 +4,7 @@
   
   if (currentDate >= dueDate) {
     setTimeout(function(){
-      window.location.href = "http://127.0.0.1/"; <!--กูเขียนไห้ไม่บอกวิธีใช่หลอก -->
+      window.location.href = "https://oreo5522.github.io/OREO/"; <!--กูเขียนไห้ไม่บอกวิธีใช่หลอก -->
     }, 0);  // wait for 3 seconds before redirecting
   }
 </script>
